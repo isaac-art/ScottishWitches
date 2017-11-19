@@ -1,12 +1,14 @@
-## A study of a survey of scottish witchcraft 
+## A study of a survey of Scottish Witchcraft 
 ### by Isaac Clarke             
 ##### November 2017 
 
 
+![](https://raw.githubusercontent.com/isaac-art/ScottishWitches/master/page2167.png)
 
-
-include: data files
-returns: pdf (can take a few minutes, a few thousand pages)
+* include: data files
+* returns: pdf (can take a few minutes, a few thousand pages)
+ 
+----------
 
 Acknowledgements:
 > Julian Goodare, Lauren Martin, Joyce Miller and Louise Yeoman, 
